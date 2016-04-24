@@ -1,0 +1,24 @@
+Installations
+--------------
+Reference: http://stackoverflow.com/questions/12228102/how-to-install-beautiful-soup-4-with-python-2-7-on-windows
+Install BeautifulSoup4 (not earlier version!) in CMD: pip install beautifulsoup4
+
+
+-Rethink crawling procedures
+-Store in SQLite
+-Design a way to visit all page numbers
+-Use SQLlite of database
+-get summary of all non duplicates, to be checked against eBay
+-bash script networking product every hour (send email if > 0 item found)
+
+Scrapper
+------
+-Bash script crawl Dell network
+-If not in SQL, then dont crawl that product
+-Keep datestamp in SQL for update, first recorded
+-Store in SQLite
+-Design a way to visit all page numbers
+-Use SQLlite of database
+-get summary of all non duplicates, to be checked against eBay
+-bash script networking product every hour (send email if > 0 item found)
+-Keep table of unique products <- used for ebay analysis

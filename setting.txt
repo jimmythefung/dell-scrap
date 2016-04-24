@@ -1,0 +1,13 @@
+delay,1
+
+#AllCategories,http://dellrefurbished.com/browse/all-categories
+Laptops,http://dellrefurbished.com/laptops
+Desktop,http://dellrefurbished.com/desktop-computers
+#Workstations,http://dellrefurbished.com/computer-workstation
+#Clearance,http://dellrefurbished.com/cheap-computers
+#Accessories,http://dellrefurbished.com/computer-accessories
+#Enterprise,http://dellrefurbished.com/enterprise-products
+
+# Other Ad-Hoc url
+#DesktopReplacement,http://dellrefurbished.com/browse/?navDesc=16356+4294960864&sortby=P_discountPrice&hits=100
+
